@@ -34,7 +34,7 @@ import routes from "routes";
 import footerRoutes from "footer.routes";
 
 function Presentation() {
-  const imagesPrefix = "https://raw.githubusercontent.com/DSmil/AgestCompany/Master/images";
+  const imagesPrefix = "https://raw.githubusercontent.com/DSmil/Agest/main/Images";
   return (
     <>
       <DefaultNavbar
@@ -54,7 +54,7 @@ function Presentation() {
             `${linearGradient(
               rgba(gradients.dark.main, 0.6),
               rgba(gradients.dark.state, 0.6)
-            )}, url(${imagesPrefix}/bg_home.jpg)`,
+            )}, url(${imagesPrefix}/bg_picture1.jpg)`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           display: "grid",

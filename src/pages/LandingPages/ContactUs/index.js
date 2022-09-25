@@ -29,7 +29,7 @@ import routes from "routes";
 import footerRoutes from "footer.routes";
 
 function ContactUs() {
-  const imagesPrefix = "https://raw.githubusercontent.com/DSmil/AgestCompany/Master/images";
+  const imagesPrefix = "https://raw.githubusercontent.com/DSmil/Agest/main/Images";
   return (
     <>
       <MKBox position="fixed" top="0.5rem" width="100%">

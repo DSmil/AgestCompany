@@ -2,7 +2,7 @@
 import MKTypography from "components/MKTypography";
 
 const date = new Date().getFullYear();
-const imagesPrefix = "https://raw.githubusercontent.com/DSmil/AgestCompany/Master/images";
+const imagesPrefix = "https://raw.githubusercontent.com/DSmil/Agest/main/Images";
 export default {
   brand: {
     name: "Agest Company",

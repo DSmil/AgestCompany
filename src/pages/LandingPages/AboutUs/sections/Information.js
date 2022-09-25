@@ -42,7 +42,7 @@ function Information() {
           </Grid>
           <Grid item xs={12} lg={4} sx={{ ml: "auto", mt: { xs: 3, lg: 0 } }}>
             <CenteredBlogCard
-              image="https://raw.githubusercontent.com/DSmil/AgestCompany/Master/images/card.jpg"
+              image="https://raw.githubusercontent.com/DSmil/Agest/main/Images/card.jpg"
               title="Products"
               description="Feel free to explore our products."
               action={{

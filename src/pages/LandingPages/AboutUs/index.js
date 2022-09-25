@@ -34,7 +34,7 @@ import routes from "routes";
 import footerRoutes from "footer.routes";
 
 function AboutUs() {
-  const imagesPrefix = "https://raw.githubusercontent.com/DSmil/AgestCompany/Master/images";
+  const imagesPrefix = "https://raw.githubusercontent.com/DSmil/Agest/main/Images";
   return (
     <>
       <DefaultNavbar
