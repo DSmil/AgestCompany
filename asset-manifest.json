@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/material-kit-react/static/js/main.612d0a5a.chunk.js",
+    "main.js.map": "/material-kit-react/static/js/main.612d0a5a.chunk.js.map",
+    "runtime-main.js": "/material-kit-react/static/js/runtime-main.2c6e89e3.js",
+    "runtime-main.js.map": "/material-kit-react/static/js/runtime-main.2c6e89e3.js.map",
+    "static/js/2.bc681c2b.chunk.js": "/material-kit-react/static/js/2.bc681c2b.chunk.js",
+    "static/js/2.bc681c2b.chunk.js.map": "/material-kit-react/static/js/2.bc681c2b.chunk.js.map",
+    "index.html": "/material-kit-react/index.html",
+    "static/js/2.bc681c2b.chunk.js.LICENSE.txt": "/material-kit-react/static/js/2.bc681c2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c6e89e3.js",
+    "static/js/2.bc681c2b.chunk.js",
+    "static/js/main.612d0a5a.chunk.js"
+  ]
+}
