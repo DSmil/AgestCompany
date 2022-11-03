@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/AgestCompany/static/js/main.612d0a5a.chunk.js",
-    "main.js.map": "/AgestCompany/static/js/main.612d0a5a.chunk.js.map",
-    "runtime-main.js": "/AgestCompany/static/js/runtime-main.23d1f4b6.js",
-    "runtime-main.js.map": "/AgestCompany/static/js/runtime-main.23d1f4b6.js.map",
-    "static/js/2.bc681c2b.chunk.js": "/AgestCompany/static/js/2.bc681c2b.chunk.js",
-    "static/js/2.bc681c2b.chunk.js.map": "/AgestCompany/static/js/2.bc681c2b.chunk.js.map",
-    "index.html": "/AgestCompany/index.html",
-    "static/js/2.bc681c2b.chunk.js.LICENSE.txt": "/AgestCompany/static/js/2.bc681c2b.chunk.js.LICENSE.txt"
+    "main.js": "/static/js/main.612d0a5a.chunk.js",
+    "main.js.map": "/static/js/main.612d0a5a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d49ed429.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d49ed429.js.map",
+    "static/js/2.bc681c2b.chunk.js": "/static/js/2.bc681c2b.chunk.js",
+    "static/js/2.bc681c2b.chunk.js.map": "/static/js/2.bc681c2b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.bc681c2b.chunk.js.LICENSE.txt": "/static/js/2.bc681c2b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.23d1f4b6.js",
+    "static/js/runtime-main.d49ed429.js",
     "static/js/2.bc681c2b.chunk.js",
     "static/js/main.612d0a5a.chunk.js"
   ]
